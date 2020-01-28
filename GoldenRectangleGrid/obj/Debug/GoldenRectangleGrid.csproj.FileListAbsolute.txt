@@ -1,0 +1,10 @@
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\bin\Debug\GoldenRectangleGrid.exe.config
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\bin\Debug\GoldenRectangleGrid.exe
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\bin\Debug\GoldenRectangleGrid.pdb
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.Form1.resources
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.Properties.Resources.resources
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.csproj.GenerateResource.cache
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.csproj.CoreCompileInputs.cache
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.exe
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.pdb
+E:\MyPrograms\C#\GoldenRectangleGrid\GoldenRectangleGrid\obj\Debug\GoldenRectangleGrid.csprojAssemblyReference.cache
